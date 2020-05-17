@@ -1,2 +1,35 @@
-# Python-FDP-TEAM-2-1
-All the discussions and examples given in the FDP can be seen here.
+### Python Programming FDP Content
+
+- Introduction to Python
+- Anaconda Installation & Overview
+  - Why Anaconda?
+  - Literate Programming
+  - Jupyter Notebook Environment
+  - Markdown format for documentation
+- Python basics
+- String Slicing
+- Functions
+- Conditional Statements
+- Iterations
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Functional Programming
+  - List Comprehension
+  - Iterators
+  - Generators
+  - Maps
+  - Lambda
+  - Filters
+- Object Oriented Programming
+  - Creating classes & objects
+  - Inheritance
+- Packages and Modules
+- Regular Expression
+- File Handling
+- File Data Processing
+- Python Libraries for Data Science
+  - Numpy
+  - Pandas
+  - Data Visualisation using Matplotlib library
