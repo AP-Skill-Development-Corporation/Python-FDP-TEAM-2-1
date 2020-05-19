@@ -1,0 +1,5 @@
+#### Tasks on Day2 Class
+- Write a python program to get all the even numbers in given range
+- Program to print multiple mathematical tables
+- Python program to check whether given number is prime or not
+- Python Program to check the given numbers existed in given sequence of numbers
