@@ -39,3 +39,9 @@ ____
   - String Methods
   - Exmaple programs on strings
   
+#### Recorded Videos
+
+- [Day1](https://drive.google.com/file/d/1Rg4dSE-2J1U98Rhilg6gWZTdTbN0j1An/view?usp=sharing)
+- [Day2](https://drive.google.com/file/d/1oP5YlZGbFPF7c7mE73MkjAyQDU04sZDO/view?usp=sharing)
+- [Day3](https://drive.google.com/file/d/1ECeCp7V3CZLCJbr_jaMSEUdL6Qn7rQSS/view?usp=sharing)
+  
