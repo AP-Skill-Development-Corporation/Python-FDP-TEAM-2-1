@@ -24,7 +24,7 @@ ____
 
 #### Day3 Covered Concepts
 
-- Explanation of example programss on Conditional Statements and Iterations
+- Explanation of example programs on Conditional Statements and Iterations
 - Functions
   - Inbuilt Functions
   
