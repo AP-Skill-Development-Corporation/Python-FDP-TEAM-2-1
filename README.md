@@ -9,6 +9,8 @@ ____
   - Literate Programming
   - Jupyter Notebook Environment
   - Markdown format for documentation
+- Keywords in python
+- Variables Declaration and Data Types
 
 #### Day2 Covered Concepts
 ____
