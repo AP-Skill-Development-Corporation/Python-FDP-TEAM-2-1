@@ -38,7 +38,8 @@ ____
   - String Slicing
   - String Methods
   - Exmaple programs on strings
-  
+____
+ 
 #### Recorded Videos
 
 - [Day1](https://drive.google.com/file/d/1Rg4dSE-2J1U98Rhilg6gWZTdTbN0j1An/view?usp=sharing)
