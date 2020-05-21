@@ -1,7 +1,7 @@
 ### Python Programming FDP Content
+____
 
 #### Day1 Covered Concepts
-____
 
 - Introduction to Python
 - Anaconda Installation & Overview
@@ -12,22 +12,25 @@ ____
 - Keywords in python
 - Variables Declaration and Data Types
 
-#### Day2 Covered Concepts
 ____
+
+#### Day2 Covered Concepts
 
 - Operators in Python
 - Conditional Statements
 - Iterations
 
-#### Day3 Covered Concepts
 ____
+
+#### Day3 Covered Concepts
 
 - Explanation of example programss on Conditional Statements and Iterations
 - Functions
   - Inbuilt Functions
   
-#### Day4 Covered Concepts
 ____
+
+#### Day4 Covered Concepts
 
 - Functions
   - User Defined Functions
