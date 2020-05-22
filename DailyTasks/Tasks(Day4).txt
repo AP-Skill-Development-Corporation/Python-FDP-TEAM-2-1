@@ -1,0 +1,9 @@
+1. Define a function that returns all perfect numbers in given range.
+
+- A number is said to be perfect if the sum of factors of the given number except that number must be equal to the given number.
+
+	ex: 6 is a perfect number - 1, 2, 3 are factors
+
+2. Write a program that gives longest string from given list of strings
+
+	['vijayawada', 'guntur', 'tirupathi', 'vizag', 'kadapa', 'anantapur']
