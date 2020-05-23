@@ -50,6 +50,12 @@ ____
   - Lists
   - Tuples
   - Dictionaries
+#### Day6 Covered Concepts
+
+- Data Structures 
+   - Dictionaries
+   - Sets
+   - Functional Programming
 ____
  
 #### Recorded Videos
