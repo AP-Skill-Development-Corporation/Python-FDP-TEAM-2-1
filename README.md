@@ -41,6 +41,15 @@ ____
   - String Slicing
   - String Methods
   - Exmaple programs on strings
+  
+____
+
+#### Day5 Covered Concepts
+
+- Data Structures 
+  - Lists
+  - Tuples
+  - Dictionaries
 ____
  
 #### Recorded Videos
