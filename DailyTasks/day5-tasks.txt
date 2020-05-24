@@ -1,0 +1,19 @@
+1)Print all the words which word contains duplicate characters
+               input    :: ramu akash balu GAUTHAMI Aswani
+               output   :: akash GAUTHAMI
+2)Print the number of digits, alphabets and any other 
+               input    ::   www.apssdc.in99
+               output   ::    DIGITS 2
+                              ALPHABETS  11
+                              OTHERS 2
+3)Given an array of ints, return the sum of the first 2 elements 
+Note : list input should be take dynamically through input() function.
+              
+               input  ::  [4,5,6] 
+               output ::: 9
+4)Given two lists and it's length should be 3.return middle numbers of 
+that list and sum of that middle numbers.
+           
+              input  :: [3,4,5][5,6,7]
+              output :: 4 6 10
+Note : list input should be take dynamically through input() function.
