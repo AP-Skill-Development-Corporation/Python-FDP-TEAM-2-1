@@ -1,0 +1,17 @@
+1. Python program to find nth largest value from given list of numbers
+
+sample input :
+
+[5,10,8,11,22,7,9]
+
+Enter n value : 3
+
+Sample Output:
+
+Third largest number is 10
+
+-----------------------------------------------------------------------------------------------------
+
+2. Write a python program to add N no of elements in to list by taking from user, Output should get a list.
+
+------------------------------------------------------------------------------------------------------

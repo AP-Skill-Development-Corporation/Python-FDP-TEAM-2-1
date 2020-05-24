@@ -1,0 +1,25 @@
+1. Python  program to find most visited website from the given list of websites. Output must be only website name not entire url.
+
+Sample Input :
+
+['facebook.com','google.com','gmail.com','apssdc.in','gmail.com','google.com','google.com']
+
+Sample Output:
+
+google
+
+------------------------------------------------------------------------------------------------
+
+2. Python program to find list of leap years in range(1900,2020) using list comprehension
+
+----------------------------------------------------------------------------------------------------
+
+3. Python program to find tuple of names starting with 'a' form given tuple using list or tuple comprehension
+
+Sample Input :
+
+('anil', 'bharath','praveen','ankita','ananya','venkat','vamsi')
+
+Sample Output:
+
+['anil','ankita','ananya']
