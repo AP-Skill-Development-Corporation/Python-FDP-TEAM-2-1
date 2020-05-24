@@ -58,8 +58,8 @@ ____
 - Data Structures 
    - Dictionaries
    - Sets
-   - Functional Programming
-    - List,Tuple & Dictionary Comprehensions
+- Functional Programming
+  - List,Tuple & Dictionary Comprehensions
 ____
  
 #### Recorded Videos
