@@ -50,12 +50,16 @@ ____
   - Lists
   - Tuples
   - Dictionaries
+  
+____
+
 #### Day6 Covered Concepts
 
 - Data Structures 
    - Dictionaries
    - Sets
    - Functional Programming
+    - List,Tuple & Dictionary Comprehensions
 ____
  
 #### Recorded Videos
@@ -65,3 +69,4 @@ ____
 - [Day3](https://drive.google.com/file/d/1ECeCp7V3CZLCJbr_jaMSEUdL6Qn7rQSS/view?usp=sharing)
 - [Day4](https://drive.google.com/file/d/1gVy98hOvX4TnN9IYHz6V4rXj3LSiljrX/view?usp=sharing)
 - [Day5](https://drive.google.com/file/d/1gVy98hOvX4TnN9IYHz6V4rXj3LSiljrX/view?usp=sharing)
+- [Day6](https://drive.google.com/file/d/149k2YXBbZVGaAnkJaaRmlQ65APi4kFga/view?usp=sharing)
