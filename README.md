@@ -62,7 +62,7 @@ ____
   - List & Dictionary Comprehensions
 ____
 
-#### Day6 Covered Concepts
+#### Day7 Covered Concepts
 
 - Functional Programming
   - Tuple Comprehension
