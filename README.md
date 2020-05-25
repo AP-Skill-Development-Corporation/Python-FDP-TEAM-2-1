@@ -61,7 +61,9 @@ ____
 - Functional Programming
   - List & Dictionary Comprehensions
 ____
- 
+
+#### Day6 Covered Concepts
+
 - Functional Programming
   - Tuple Comprehension
   - Map Function
