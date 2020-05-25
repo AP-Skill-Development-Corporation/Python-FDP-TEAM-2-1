@@ -59,7 +59,16 @@ ____
    - Dictionaries
    - Sets
 - Functional Programming
-  - List,Tuple & Dictionary Comprehensions
+  - List & Dictionary Comprehensions
+____
+ 
+- Functional Programming
+  - Tuple Comprehension
+  - Map Function
+  - Creating Function Using Lambda
+  - Filter Function
+  - Iterators
+  - Generators
 ____
  
 #### Recorded Videos
