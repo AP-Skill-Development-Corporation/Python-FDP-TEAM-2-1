@@ -71,6 +71,21 @@ ____
   - Filter Function
   - Iterators
   - Generators
+  
+____
+
+#### Day8 Covered Concepts
+
+- Object Oriented Programming
+  - Introduction to Object Oriented Programming
+  - Creating Classes & Objects
+  - Types of Inheritances
+    - Single Inheritance
+    - Multiple Inheritance
+- Modules
+  - Inbuilt Modules
+  - Creating user defined modules and usage
+
 ____
  
 #### Recorded Videos
