@@ -85,9 +85,19 @@ ____
 - Modules
   - Inbuilt Modules
   - Creating user defined modules and usage
-
 ____
  
+ 
+#### Day9 Covered Concepts
+
+- Regular Expressions
+  - match
+  - search
+  - findall
+- File Handling Techniques
+
+____
+
 #### Recorded Videos
 
 - [Day1](https://drive.google.com/file/d/1Rg4dSE-2J1U98Rhilg6gWZTdTbN0j1An/view?usp=sharing)
