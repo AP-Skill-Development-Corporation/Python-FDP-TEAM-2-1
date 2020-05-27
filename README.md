@@ -94,7 +94,19 @@ ____
   - match
   - search
   - findall
+  - split
 - File Handling Techniques
+  - Operations
+    - open()
+    - read()
+    - write()
+    - append()
+    - close()
+  - Modes
+    - Read--->"r"
+    - Write-->"w"
+    - Append->"a"
+  
 
 ____
 
