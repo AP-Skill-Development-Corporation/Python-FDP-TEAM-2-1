@@ -107,7 +107,15 @@ ____
     - Write-->"w"
     - Append->"a"
   
+____
 
+#### Day10 Covered Concepts
+
+- Explanation of programs on Files
+- Numpy
+  - Introduction to Numpy
+  - Creating arrays
+  - Array slicing
 ____
 
 #### Recorded Videos
