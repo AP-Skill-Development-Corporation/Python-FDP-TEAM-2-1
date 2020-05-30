@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------------------
+-------------------INCOME DATA SET------------------------------------------
+1.Combined Average Income of all states from 2005 to 2013
+2.State with highest average income in the last three years
+3.State with lowest average income from 2007 to 2010(inclusive)
+4.Print the list of all states in the same line with average income less than California
+5.Print the names of states based on descending order of income in the year 2009
+6.State with the lowest recorded income from 2005 to 2013
