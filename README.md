@@ -118,6 +118,31 @@ ____
   - Array slicing
 ____
 
+#### Day11 Covered Concepts
+
+- Numpy
+  - Mathematical functions in numpy
+  - Other inbuilt functions in numpy
+ 
+- Pandas
+  - Introduction to pandas
+    - Series
+    - Dataframe
+    
+____
+
+#### Day12 Covered Concepts
+
+- Data Analysis using pandas
+  - Income data analysis
+  
+- Matplotlib
+  - Introduction to matplotlib
+  - Types of graphs
+    - line graph
+    - scatter plot
+    - bar graph
+____
 #### Recorded Videos
 
 - [Day1](https://drive.google.com/file/d/1Rg4dSE-2J1U98Rhilg6gWZTdTbN0j1An/view?usp=sharing)
